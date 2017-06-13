@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Iron Fangs</title>
+  <link href="site.css" rel="stylesheet">
+</head>
+
+<body>
+
+<nav id="nav01"></nav>
+
+ <div id="main">
+  <h1>Welcome to our Robotics Team</h1>
+  <h2>Info:</h2>
+
+  <p>Pics</p>
+  <p>vids</p>
+  <p>media links</p>
+  <footer id="foot01"></footer>
+ </div>
+
+<script src="script.js"></script>
+
+
+</body>
+</html>
